@@ -1,6 +1,6 @@
 # Challenger-Telecomx
 
-Desafio 2 do programa **ONE - Oracle Next Education** da Alura.
+Desafio 2 do programa **ONE - Oracle Next Education** da Alura e Oracle.
 
 ## 🎯 Objetivo
 
