@@ -12,9 +12,11 @@ Analisar os dados fornecidos para identificar as possíveis causas do alto índi
 - Matplotlib  
 - Seaborn  
 
-## 🧩 Sobre o Dataset
+## 🧩 Sobre os arquivos
 
 O conjunto de dados contém informações relacionadas ao perfil dos clientes, seus serviços contratados e status de permanência na empresa (ativo ou evadido). O objetivo é identificar padrões ou fatores que contribuem para a evasão.
+
+O **TelecomX_dicionario.md** contém imformações de oque são cada informações  no json
 
 ## 🚀 Como Executar
 
